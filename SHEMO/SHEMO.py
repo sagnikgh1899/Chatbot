@@ -85,6 +85,7 @@ def MODIFICATION(path_init):
             dis = 25  # 25
         else:
             dis = 25"""
+        dis = 25
         eye1 = cv2.imread(path_init)
         eye = eye1
 
