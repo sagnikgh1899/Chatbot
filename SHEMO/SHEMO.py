@@ -314,8 +314,9 @@ def Get_Conjunctiva_Region(ROI_reduced_path, edges_path):
     cv2.destroyAllWindows()
     return result_path
 
-
+# Enter the input image here:
 img = cv2.imread("51.png")
+
 ROI_reduced_path, edges_path = Eye_Detection(img)
 if ROI_reduced_path == 129 and edges_path == 129:
     print("\nPlease Capture a New Image!!")
