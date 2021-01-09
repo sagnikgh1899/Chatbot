@@ -1,3 +1,3 @@
 A Novel Outlier Detection Algorithm.
 
-Concepts Involved: Clustering, Instance Selection
+Concepts Involved: Unsupervised Machine Learning, Clustering, Instance Selection, Pyhton, Data Science
